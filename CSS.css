@@ -1,0 +1,96 @@
+<html>
+ 
+   <body>
+ 
+< link rel = "stylesheet" href = "CSS.css">
+ 
+      <estilo>
+ 
+p {
+   
+    font-size:130%;
+}
+
+<p style = "color: white; background-color: gray;">
+ 
+    Este es un ejemplo de estilo en línea.
+p {
+ 
+         color: blanco;
+         color de fondo: gris;
+      }
+ 
+      </style>
+ 
+   </head>
+
+ 
+      <p> Este es mi primer párrafo. </p>
+ 
+      <p> Este es mi segundo párrafo. </p>
+
+p {
+
+ color: green;
+/ * El comentario va aquí * /
+font-size: 150%;
+
+ }
+
+<style>
+ 
+      cuerpo {
+ 
+         color: verde;
+         familia de fuentes: Arial;
+      }
+ 
+     </style>
+ 
+   </head>
+ 
+   <body>       
+ 
+      <p>
+ 
+      Este es un texto dentro del párrafo. 
+      </p>
+ 
+cuerpo {
+ 
+   familia de fuentes: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+p.italic {
+ font-style:italic
+}
+
+table {
+    text-align:center;
+    border:1px solid black;
+    width:100%;
+}
+
+td {
+    max-width:50%;
+    border:1px inset red;
+p {
+text-shadow:5px 5px 2px;
+}
+
+.container {
+  width: 100%;
+  height: 300px;
+  background-color: green;
+}
+
+.text {
+  color: #FFF;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 700;
+  font: italic bold 100px Georgia, Serif;
+  text-shadow: -4px 3px 0 #34d16e, -14px 7px 0 #0a0e27;
+ 
+   </body>
+ 

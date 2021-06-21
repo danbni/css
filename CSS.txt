@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table Align Centre</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>
+                    <p>Hello World!</p>
+                </td>
+                <td>
+                    <p>Cell 2</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>Cell 3</p>
+                </td>
+            </tr>
+        </table>
+<p class = "none"> Este es el estilo predeterminado del texto (ninguno). </p>
+ 
+<p class = "heredar"> Este texto hereda la decoración del padre. </p>
+ 
+<p class = "overline "> Este es un texto 
+subrayado . </p>
+ <p class =" underline "> Este es un texto subrayado. </p>
+ 
+<p class =" line-through "> Este es un texto rayado. </p>
+
+<p class = "capitalize">
+ 
+    El valor capitalize transforma el primer 
+ 
+    carácter de cada palabra en mayúsculas; 
+    todos los demás personajes no se ven afectados.
+</p>
+<div class="container">
+  <p class="text">DevCode</p>
+</div>
+    </body>
+</html>
